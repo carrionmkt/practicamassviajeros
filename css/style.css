@@ -1,0 +1,52 @@
+* {
+    list-style: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+   
+}
+
+header {
+    color: #c61919; 
+}
+
+header a {
+    text-decoration: none;
+    color: #c61919; 
+}
+
+header div ul li{
+    display: inline-block;
+}
+
+
+
+.buscador{
+    background-image: url(/image/banner.png);
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    background-position: center ;
+    
+}
+
+.subtitulo {
+    font-size: 60px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copy {
+    color: white;
+}
+
+.subtitulocard{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copycard{
+    color: #666;
+}
